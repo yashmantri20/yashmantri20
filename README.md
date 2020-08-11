@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on ReactJS Project.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on [Linked In](https://linkedin.com/in/yashmantri20).
-- 🤔 I’m looking for help in backend.
+- 🤔 I’m looking for a help in backend.
 - 💬 Ask me about Javascript or any tech related stuff.
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/yashmantri20), [GMail](mailto:mantriyash2025@gmail.com)
 - 😄 Pronouns: He/His
