@@ -1,4 +1,4 @@
-<h1>Hola, I'm <a href="https://yashmantri20.github.io/yashmantri/">Yash</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hola, I'm <a href="https://yashmantri20.github.io/yash-mantri/">Yash</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmantri20&label=Views&color=blue&style=plastic" alt="YashMantri" /> </p>
@@ -30,7 +30,7 @@
 
 [![Linkedin: YashMantri](https://img.shields.io/badge/-yashmantri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashmantri20/)](https://www.linkedin.com/in/yashmantri20/)
 [![GitHub YashMantri](https://img.shields.io/github/followers/yashmantri20?label=follow&style=social)](https://github.com/yashmantri20)
-[![website](https://img.shields.io/badge/PortfolioWebsite-yashmantri20.github.io/yashmantri-2648ff?style=flat-square&logo=google-chrome)](https://yashmantri20.github.io/yash-mantri/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-yashmantri20.github.io/yash-mantri-2648ff?style=flat-square&logo=google-chrome)](https://yashmantri20.github.io/yash-mantri/)
 
 
 **Languages and Tools:**  
