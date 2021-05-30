@@ -3,22 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmantri20&label=Views&color=blue&style=plastic" alt="YashMantri" /> </p>
 
-
-<a href="https://linkedin.com/in/yashmantri20">
-  <img align="left" alt="Yash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/yashmantri20">
-  <img align="left" alt="Yash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="mailto:mantriyash2025@gmail.com">
-  <img align="left" alt="Yash's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br/>
-<br/>
-
-
 - 🔭 I’m currently working on ReactJS Project.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on [Linked In](https://linkedin.com/in/yashmantri20).
