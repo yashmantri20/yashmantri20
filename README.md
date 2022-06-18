@@ -14,7 +14,7 @@
 
 [![Linkedin: YashMantri](https://img.shields.io/badge/-yashmantri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashmantri20/)](https://www.linkedin.com/in/yashmantri20/)
 [![GitHub YashMantri](https://img.shields.io/github/followers/yashmantri20?label=follow&style=social)](https://github.com/yashmantri20)
-[![website](https://img.shields.io/badge/PortfolioWebsite-YashMantri-2648ff?style=flat-square&logo=google-chrome)](https://yashmantri20.github.io/yash-mantri/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-YashMantri-2648ff?style=flat-square&logo=google-chrome)](https://yashmantri20.me/)
 
 
 **Languages and Tools:**  
