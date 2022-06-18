@@ -1,4 +1,4 @@
-<h1>Hola, I'm <a href="https://yashmantri20.github.io/yash-mantri/">Yash</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1>Hola, I'm <a href="https://yashmantri20.github.io/yash-mantri/">Yash</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="35px"></h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmantri20&label=Views&color=blue&style=plastic" alt="YashMantri" /> </p>
